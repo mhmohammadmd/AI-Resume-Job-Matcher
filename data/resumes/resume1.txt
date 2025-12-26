@@ -1,0 +1,3 @@
+I am a Computer Science graduate with experience in Python,
+Machine Learning, Data Science, NLP, and data visualization.
+Worked with Scikit-learn, Pandas, NumPy, and Matplotlib.
