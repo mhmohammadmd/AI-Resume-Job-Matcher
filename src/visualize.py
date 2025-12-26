@@ -15,4 +15,5 @@ counts = [len(resume_skills), len(missing_skills)]
 plt.bar(skills, counts, color=["green", "red"])
 plt.title(f"Resume-JD Skill Match: {match_percentage}%")
 plt.ylabel("Number of Skills")
+plt.savefig("../screenshots/skill_gap_demo.png")
 plt.show()
